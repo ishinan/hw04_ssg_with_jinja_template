@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.gitignore
+
+__pycache__/
+
+*.log
+
+# MacOS
+.DS_Store
